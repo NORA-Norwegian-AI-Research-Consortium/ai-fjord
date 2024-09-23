@@ -16,7 +16,7 @@ The NorLM initiative has produced several notable models tailored for various NL
 - Model Developers: Language Technology Group at the University of Oslo.
 - Model Architecture: NorMistral is an auto-regressive language model that uses an optimized transformer architecture based on the Mistral/Llama language models.
 - License: [apache-2.0](https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md)
-- Code Repository: [GitHub](https://github.com/NORA-Norwegian-AI-Research-Consortium/ai-fjord/blob/3391547df0a832c0f95ae3a07a75a066748b5d76/norallm/NorMistral-7b-warm.ipynb)
+- Code Repository: [GitHub](https://github.com/NORA-Norwegian-AI-Research-Consortium/ai-fjord/blob/b15def2d105636f579a7eb1b1f5f1d6fdac4c891/norallm/NorMistral-7b-warm.ipynb)
 
 ### NorMistral-7b-warm-instruct
 
@@ -24,7 +24,7 @@ The NorLM initiative has produced several notable models tailored for various NL
 - Model Developers: Language Technology Group at the University of Oslo.
 - Model Architecture: NorMistral is an auto-regressive language model that uses an optimized transformer architecture based on the Mistral/Llama language models.
 - License: [apache-2.0](https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md)
-- Code Repository: [GitHub](https://github.com/NORA-Norwegian-AI-Research-Consortium/ai-fjord/blob/3391547df0a832c0f95ae3a07a75a066748b5d76/norallm/NorMistral-7b-warm-instruct.ipynb)
+- Code Repository: [GitHub](https://github.com/NORA-Norwegian-AI-Research-Consortium/ai-fjord/blob/b15def2d105636f579a7eb1b1f5f1d6fdac4c891/norallm/NorMistral-7b-warm-instruct.ipynb)
 
 ### NorMistral-7b-scratch
 
@@ -32,7 +32,7 @@ The NorLM initiative has produced several notable models tailored for various NL
 - Model Developers: Language Technology Group at the University of Oslo.
 - Model Architecture: NorMistral is an auto-regressive language model that uses an optimized transformer architecture based on the Mistral/Llama language models.
 - License: [apache-2.0](https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md)
-- Code Repository: [GitHub](https://github.com/NORA-Norwegian-AI-Research-Consortium/ai-fjord/blob/3391547df0a832c0f95ae3a07a75a066748b5d76/norallm/NorMistral-7b-scratch.ipynb)
+- Code Repository: [GitHub](https://github.com/NORA-Norwegian-AI-Research-Consortium/ai-fjord/blob/b15def2d105636f579a7eb1b1f5f1d6fdac4c891/norallm/NorMistral-7b-scratch.ipynb)
 
 ### NorBLOOM-7b-scratch
 
@@ -40,7 +40,7 @@ The NorLM initiative has produced several notable models tailored for various NL
 - Model Developers: Language Technology Group at the University of Oslo.
 - Model Architecture: NorBLOOM is an auto-regressive language model that uses the BLOOM architecture.
 - License: [apache-2.0](https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md)
-- Code Repository: [GitHub](https://github.com/NORA-Norwegian-AI-Research-Consortium/ai-fjord/blob/3391547df0a832c0f95ae3a07a75a066748b5d76/norallm/NorBLOOM-7b-scratch.ipynb)
+- Code Repository: [GitHub](https://github.com/NORA-Norwegian-AI-Research-Consortium/ai-fjord/blob/b15def2d105636f579a7eb1b1f5f1d6fdac4c891/norallm/NorBLOOM-7b-scratch.ipynb)
 
 ## Expert Group
 
